@@ -1,7 +1,10 @@
 streamlit
-numpy
-pandas
-scikit-learn
-opencv-python-headless
 tensorflow
+opencv-python-headless
+pillow
+numpy
+scikit-fuzzy
+scipy
+networkx
 matplotlib
+h5py
